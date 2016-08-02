@@ -1,0 +1,28 @@
+{
+  "name": "babel-preset-jsdoc",
+  "version": "0.1.0",
+  "description": "Babel preset for latest jsdoc",
+  "author": "Christophe Hurpeau <christophe@hurpeau.com> (http://christophe.hurpeau.com/)",
+  "license": "ISC",
+  "homepage": "https://github.com/christophehurpeau/babel-preset-jsdoc",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christophehurpeau/babel-preset-jsdoc.git"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "babel-plugin-transform-es2015-destructuring": "^6.9.0",
+    "babel-plugin-transform-es2015-parameters": "^6.9.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "babel",
+    "preset",
+    "jsdoc"
+  ],
+  "bugs": {
+    "url": "https://github.com/christophehurpeau/babel-preset-jsdoc/issues"
+  }
+}
