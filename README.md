@@ -27,4 +27,4 @@ Add the following line to your `.babelrc` file:
 - jsdoc
 - jsdoc/object-rest add if you need object-rest (stage 2) https://phabricator.babeljs.io/T7086
 
-Note: to support `async` functions and other proposals, you can add babel preset `stage-1` ot the stage you want. There is also [babel-preset-jsdoc-stage-1](https://www.npmjs.com/package/babel-preset-jsdoc-stage-1).
+Note: to support `async` functions and other proposals, you can add babel preset `stage-1` or the stage you want.
