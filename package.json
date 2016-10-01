@@ -16,7 +16,9 @@
     "babel-plugin-transform-es2015-parameters": "^6.16.0"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "version": "pob-version",
+    "release": "pob-repository-check-clean && pob-release"
   },
   "keywords": [
     "babel",
@@ -25,5 +27,8 @@
   ],
   "bugs": {
     "url": "https://github.com/christophehurpeau/babel-preset-jsdoc/issues"
+  },
+  "devDependencies": {
+    "pob-release": "^2.1.2"
   }
 }
