@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-jsdoc",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Babel preset for latest jsdoc",
   "author": "Christophe Hurpeau <christophe@hurpeau.com> (http://christophe.hurpeau.com/)",
   "license": "ISC",
