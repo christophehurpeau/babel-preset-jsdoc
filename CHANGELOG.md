@@ -1,3 +1,11 @@
+### v0.3.0
+
+- [`ddeaa6d`](https://github.com/christophehurpeau/babel-preset-jsdoc/commit/ddeaa6d9396f04dc87462fe915c80796b5c19179) add modules-commonjs and use loose mode (Christophe Hurpeau)
+- [`8e703ce`](https://github.com/christophehurpeau/babel-preset-jsdoc/commit/8e703ce126c0f2710fa9e5176186056598aa969f) pob-release (Christophe Hurpeau)
+- [`940809f`](https://github.com/christophehurpeau/babel-preset-jsdoc/commit/940809f671de9b114a82154614d9e75513f97ba6) update AUTHORS (Christophe Hurpeau)
+- [`e2525c1`](https://github.com/christophehurpeau/babel-preset-jsdoc/commit/e2525c136246c6905604aeb489b0419b1a12e0be) repository in package.json (Christophe Hurpeau)
+
+
 ### v0.2.0
 
 - [`ebce850`](https://github.com/christophehurpeau/babel-preset-jsdoc/commit/ebce850739bb6516915127a87cc578c8ef8f30e8) add modules-commonjs and use loose mode (Christophe Hurpeau)
