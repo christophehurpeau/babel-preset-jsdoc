@@ -1,3 +1,12 @@
+<a name="0.4.1"></a>
+## [0.4.1](https://github.com/christophehurpeau/babel-preset-jsdoc/compare/v0.4.0...v0.4.1) (2017-08-10)
+
+
+### Bug Fixes
+
+* use noInterop ([6305739](https://github.com/christophehurpeau/babel-preset-jsdoc/commit/6305739))
+
+
 ### v0.4.0
 
 - [`ad5304d`](https://github.com/christophehurpeau/babel-preset-jsdoc/commit/ad5304d22e0aa460f3dc7f3aae2bcae11e0fd8d5) add modules-commonjs and use loose mode (Christophe Hurpeau)
