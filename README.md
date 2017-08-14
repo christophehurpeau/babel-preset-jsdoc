@@ -1,5 +1,7 @@
 # babel-preset-jsdoc [![NPM Version](http://img.shields.io/npm/v/babel-preset-jsdoc.svg?style=flat-square)](https://www.npmjs.org/package/babel-preset-jsdoc)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/christophehurpeau/babel-preset-jsdoc.svg)](https://greenkeeper.io/)
+
 Babel preset for latest jsdoc
 
 * [Installation](#installation)
